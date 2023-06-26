@@ -1,6 +1,6 @@
-# deep-learning-challenge
+# AlphabetSoup Funding Report 
 
-## Analysis Overview
+## Overview
 
 The purpose of this analysis is to help the nonprofit foundation Alphabet Soup to select the applicants for funding with the best chance of success in their ventures. Alphabet Soup's business team has provided a CSV file continaing the metadata of 34,000 organizations to whom AS has provided funding in the past. Using machine learning and neural networks, I aimed to find organizational features most strongly coorelated with success.
 
